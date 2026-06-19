@@ -1,0 +1,20 @@
+========================
+PLAYER MATCH REPORT
+========================
+
+Movement:
+- Total Distance: 143631.19 px
+- Avg Movement per Frame: 19.73 px
+
+Positioning (Image-Based Zones):
+- Top of frame: 99.1%
+- Middle of frame: 0.6%
+- Bottom of frame: 0.3%
+- Left: 88.5%
+- Right: 11.5%
+
+Stability:
+- Avg Distance from Center: 470.6 px
+- Max Distance: 3152.1 px
+
+Note: Zones are in image coordinate space, not real court geometry.
